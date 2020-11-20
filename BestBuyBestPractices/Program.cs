@@ -50,5 +50,5 @@ DONE - Create Department class
 DONE - Create IDepartmentRepository interface
 DONE - Create DapperDepartmentRepository class
 DONE - Create GetAllDepartments Method
-DONE - Create InsertDepartment Method
+Create InsertDepartment Method
 */
